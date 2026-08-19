@@ -105,8 +105,9 @@ mvn clean verify
 
 Os testes de concorrência utilizam **Testcontainers com PostgreSQL real**.
 
-## Roadmap
+Removi a seção "Documentação" que apontava pro `docs/adr` inexistente. Ficou assim, do "## Roadmap" pro fim:
 
+## Roadmap
 * Gestão de usuários
 * Refresh e revogação de tokens
 * Expiração automática de reservas
@@ -115,10 +116,3 @@ Os testes de concorrência utilizam **Testcontainers com PostgreSQL real**.
 * Outbox e mensageria
 * Testes de carga
 * Métricas e SLOs de produção
-
-## Documentação
-
-As principais decisões arquiteturais estão disponíveis em:
-
-```text
-docs/adr
