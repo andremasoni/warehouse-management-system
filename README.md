@@ -9,6 +9,14 @@
 
 Backend para gerenciamento de **estoque, depósitos e pedidos de um centro de distribuição**, desenvolvido com **Java 21 e Spring Boot 3.5**.
 
+Realizei esse projeto utilizando Inteligência Artificial como copiloto durante o desenvolvimento, principalmente para revisar código, analisar testes unitários e aprofundar meu entendimento sobre o problema que a aplicação busca resolver.
+
+A ideia surgiu depois que assisti a um vídeo no YouTube mostrando a rotina de trabalhadores da CEASA. Enquanto assistia, comecei a pensar: como é feito o controle de produtos, estoques e movimentações nesse tipo de ambiente?
+
+A partir dessa curiosidade, decidi desenvolver um Warehouse Management System (WMS), buscando transformar uma situação que observei no mundo real em um problema de software que eu pudesse estudar e resolver.
+
+Pretendo trabalhar mais nesse projeto, então, essa pode ser a v1.
+
 O projeto utiliza uma arquitetura de **monólito modular** e aborda problemas reais de backend, como **concorrência, consistência transacional, idempotência, segurança e rastreabilidade**.
 
 ## Tecnologias
