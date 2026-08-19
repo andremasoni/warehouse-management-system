@@ -1,0 +1,6 @@
+target/
+.git/
+.idea/
+.env
+README.md
+docs/
