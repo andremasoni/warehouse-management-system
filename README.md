@@ -1,4 +1,3 @@
-````md
 # Warehouse Management System
 
 ![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
