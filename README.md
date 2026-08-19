@@ -114,7 +114,3 @@ As principais decisões arquiteturais estão disponíveis em:
 
 ```text
 docs/adr
-```
-
-```
-```
